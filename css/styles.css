@@ -1,0 +1,18 @@
+li {
+    list-style: none;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+li a {
+    color: #707071;
+}
+
+li a:hover {
+    color: #505050
+}
+
+main {
+    margin-top: 50px;
+}
